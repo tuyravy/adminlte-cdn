@@ -16,6 +16,7 @@ body::-webkit-scrollbar-thumb {
     border-bottom: 1px solid #ebc50d;
     margin-bottom: 10px;
 }
+
 .vs--searchable .vs__dropdown-toggle{ height: 38px;}
 table.pretty {
     width: 100%;
